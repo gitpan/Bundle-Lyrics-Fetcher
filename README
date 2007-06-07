@@ -1,0 +1,30 @@
+Bundle-Lyrics-Fetcher version 0.01
+==================================
+
+A simple bundle of Lyrics::Fetcher (the fetcher manager) and the recommended
+Lyrics::Fetcher::* modules, which are the fetchers which do the actual work
+of retrieving and processing lyrics from various sites.
+
+Provides a nice, simple, quick way to get Lyrics::Fetcher up and running.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+See the Lyrics::Fetcher::* modules for their dependencies - there's nothing
+too esoteric.
+
+
+COPYRIGHT AND LICENCE
+
+It's just a bundle - see the Lyrics::Fetcher::* modules for licencing info.
+
+
+

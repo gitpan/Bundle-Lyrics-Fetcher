@@ -1,0 +1,5 @@
+Makefile.PL
+MANIFEST
+README
+lib/Bundle/Lyrics/Fetcher.pm
+META.yml                                 Module meta-data (added by MakeMaker)
